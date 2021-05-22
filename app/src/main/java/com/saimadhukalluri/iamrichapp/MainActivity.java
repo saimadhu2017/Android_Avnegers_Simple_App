@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
             String mobile = String.valueOf(editText_mobile.getText());
             String pass = String.valueOf(editText_Pass.getText());
 
-            if (mobile.equals("9542035897") && pass.equals("saimadhu2017")) {
+            if (mobile.equals("9542035647") && pass.equals("123")) {
                 sharedPreferences.edit().putBoolean("isLogin", true).apply();
                 sharedPreferences.edit().putString("userName", "sai madhu Tony").apply();
                 Toast.makeText(this, "successfully logged in", Toast.LENGTH_SHORT).show();

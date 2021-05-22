@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Avengers</string>
+    <!--    <string name="title">Avengers</string>-->
+    <string name="register">Register Here</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="enter_mobile">Enter Mobile Number</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="avengers_logo_desc">This is avengers logo</string>
+    <string name="black_panther_image">this is black panther</string>
+    <string name="black_panther">Black Panther</string>
+    <string name="bp_email">blackpanther@gmail.com</string>
+    <string name="bp_phone">+919542035897</string>
+    <string name="cap_Am_Des">captain america pic</string>
+    <string name="cap_mail">ca@gmail.com</string>
+    <string name="text_captain_america">Captain America</string>
+    <string name="thor_image_Dsc">thor image</string>
+    <string name="thor_Name">Thor</string>
+    <string name="widow_image_Dsc">widow image</string>
+    <string name="black_widow_name">Black Widow</string>
+    
+    <string name="preference_file_name">avengers preferences</string>
+    <string name="but_logout">Logout</string>
+</resources>
